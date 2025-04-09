@@ -29,3 +29,11 @@ The historical air quality data was sourced from the World Air Quality Index (WA
 | Borivali              |                            | Jodhpur                 |
 |                       |                            | Panipat                 |
 |                       |                            | Yamunanagar             |
+
+---
+
+## 🖼️ Air Quality Index Variability Across Cities in India
+
+![AQI Variability](./Air%20Quality%20Index%20Variability%20Across%20Cities%20in%20India.jpeg)
+
+---
